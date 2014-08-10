@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: tonylam
 Build-Jdk: 1.8.0_05
-Main-Class: ynot.Test
+Main-Class: ynot.Main
 Created-By: Maven Integration for Eclipse
 
